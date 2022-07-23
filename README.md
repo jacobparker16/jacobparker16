@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @jacobparker16
-- 👀 I’m interested in machine learning
 - 🌱 I’m currently a Data Science intern, set to complete BSc Mathematics with Finance in 22/23
-- 💞️ I’m looking to collaborate on basic problem solving
+- 👀 I’m interested in machine learning
 - 📫 How to reach me jake__parker@outlook.com
 
 <!---
