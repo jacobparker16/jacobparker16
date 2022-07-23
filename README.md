@@ -1,4 +1,4 @@
-- 🌱 I’m currently a Data Science intern, set to complete BSc Mathematics with Finance in 22/23
+- 🌱 I’m currently a Data Science intern, set to achieve BSc Mathematics with Finance in 2023
 - 👀 I’m interested in machine learning
 - 📫 How to reach me jake__parker@outlook.com
 
